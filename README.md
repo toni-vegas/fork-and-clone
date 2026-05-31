@@ -1,2 +1,2 @@
 # fork-and-clone
-for learning git purposes
+This is a repo to demostrate the fork-and-clone workflow!
